@@ -1,1 +1,0 @@
-// Milky Way skybox was removed. To add a skybox, load your image from an external URL.
